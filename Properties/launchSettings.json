@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TripNumberUpdate": {
+      "commandName": "Project",
+      "commandLineArgs": "%USERPROFILE%\\Desktop\\uuids_with_keys.csv %USERPROFILE%\\Desktop\\uuids_with_keys.sql"
+    }
+  }
+}
